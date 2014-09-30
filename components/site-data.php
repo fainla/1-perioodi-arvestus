@@ -1,5 +1,6 @@
 <?php
   $site_html_title = "SVP - Arvestustöö";
+  $footer_title ="Arvestustöö: Fränk Ainla - 30.09.2014";
 
   $site_title = "Arvestustöö";
 
